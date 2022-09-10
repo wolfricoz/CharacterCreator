@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    height: 50px;
+    width: auto;
+    border-style: solid;
+    border-spacing: 0;
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 600px;
+
+    margin: auto;
+    background: #718096;
+}
+.main .question{
+    padding: 10px;
+}
+.main .text{
+    width: 350px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.main .textp{
+    width: 150px;
+    height: 20px;
+    display: inline-block;
+}
+.main input{
+
+}
+.main .inputs{
+    width: 600px;
+    height: 20px;
+    display: inline-block;
+}
+.main .wrappertext{
+    width: 500px;
+}
+.main .wrapperpara{
+    height: 70px;
+}
+.main .wrappertext input{
+    width: 100px;
+}
+.main .wrappertext .para{
+    width: 500px;
+    height: 50px;
+}
+.main .wrappertext .longer{
+    width: 500px;
+}
+.main h1{
+    text-align: center;
+}
+.main .wrappertext .slider{
+    width: 200px;
+}
